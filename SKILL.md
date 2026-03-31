@@ -24,3 +24,4 @@ metadata:
 ---
 
 @./program.md
+@./README.md
